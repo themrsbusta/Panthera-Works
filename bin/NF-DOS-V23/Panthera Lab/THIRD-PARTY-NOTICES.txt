@@ -1,0 +1,96 @@
+PANTHERA WORKS 2026 — THIRD-PARTY NOTICES
+
+Panthera Research licenses Panthera-owned source and original project assets under the MIT License; see the repository root LICENSE. This grant does not replace or extend any third-party license listed below.
+
+Open Watcom C/C++32 runtime
+---------------------------
+The Open Watcom C/C++32 runtime is statically linked in this executable.
+The executable contains this source-availability notice:
+“Open Watcom C/C++32 runtime code is included in this executable. Its Covered Code source is available under the Sybase Open Watcom Public License 1.0 at https://github.com/open-watcom/open-watcom-v2”
+License text and runtime sources: https://open-watcom.github.io/open-watcom-v2-wikidocs/c_readme.html#sybase-open-watcom-public-license
+
+DOS/32 Advanced DOS Extender
+----------------------------
+DOS/32 Advanced DOS Extender Software License
+=============================================
+
+Copyright (C) 1996-2006 by Narech K. All rights reserved.
+
+Redistribution  and  use  in source and  binary  forms, with or without
+modification,  are permitted provided that the following conditions are
+met:
+
+1.  Redistributions  of  source code  must  retain  the above copyright
+notice, this list of conditions and the following disclaimer.
+
+2.  Redistributions  in binary form  must reproduce the above copyright
+notice,  this  list of conditions and  the  following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+3. The end-user documentation included with the redistribution, if any,
+must include the following acknowledgment:
+
+"This product uses DOS/32 Advanced DOS Extender technology."
+
+Alternately,  this acknowledgment may appear in the software itself, if
+and wherever such third-party acknowledgments normally appear.
+
+4.  Products derived from this software  may not be called "DOS/32A" or
+"DOS/32 Advanced".
+
+THIS  SOFTWARE AND DOCUMENTATION IS PROVIDED  "AS IS" AND ANY EXPRESSED
+OR  IMPLIED  WARRANTIES,  INCLUDING, BUT  NOT  LIMITED  TO, THE IMPLIED
+WARRANTIES  OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN  NO  EVENT SHALL THE  AUTHORS  OR  COPYRIGHT HOLDERS BE
+LIABLE  FOR  ANY DIRECT, INDIRECT,  INCIDENTAL,  SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL  DAMAGES  (INCLUDING, BUT NOT  LIMITED TO, PROCUREMENT OF
+SUBSTITUTE  GOODS  OR  SERVICES;  LOSS OF  USE,  DATA,  OR  PROFITS; OR
+BUSINESS  INTERRUPTION) HOWEVER CAUSED AND  ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE)  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Acknowledgment required in end-user documentation:
+This product uses DOS/32 Advanced DOS Extender technology.
+
+zlib 1.4
+--------
+Copyright notice:
+
+ (C) 1995-2026 Jean-loup Gailly and Mark Adler
+
+  This software is provided 'as-is', without any express or implied
+  warranty.  In no event will the authors be held liable for any damages
+  arising from the use of this software.
+
+  Permission is granted to anyone to use this software for any purpose,
+  including commercial applications, and to alter it and redistribute it
+  freely, subject to the following restrictions:
+
+  1. The origin of this software must not be misrepresented; you must not
+     claim that you wrote the original software. If you use this software
+     in a product, an acknowledgment in the product documentation would be
+     appreciated but is not required.
+  2. Altered source versions must be plainly marked as such, and must not be
+     misrepresented as being the original software.
+  3. This notice may not be removed or altered from any source distribution.
+
+  Jean-loup Gailly        Mark Adler
+  jloup@gzip.org          madler@alumni.caltech.edu
+
+
+DOSLFN 0.42-wip / CP437UNI.TBL
+------------------------------
+The original package metadata classifies this package as “Freeware w/sources”.
+The downloaded archive includes source and documentation but no explicit
+LICENSE or COPYING text; the metadata points to a general Wikipedia page.
+Redistribution permission is unresolved. DOSLFN and CP437UNI.TBL are not
+included with Panthera Works. The current applications retain LFN-dependent
+DOCX/XLSX/PPTX support and require the user to install an LFN driver
+independently. See each application's INSTALL-LFN.txt. No maintainer contact
+was made. A later NF-DOS edition is planned to implement original LFN code inside the
+kernel; that work is not part of this release.
+Upstream package page: https://ibiblio.org/pub/micro/pc-stuff/freedos/files/repositories/latest/html/en/drivers/doslfn/20250724.2/index.html
+Maintainer's DOSLFN page: https://adoxa.altervista.org/doslfn/index.html
+Local archive SHA-256: 9553FF471F7F0857ED37BAEDBE4F8B981803B3348E6A5A6AFF5018F18DD68FFA

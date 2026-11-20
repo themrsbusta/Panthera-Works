@@ -1,0 +1,18 @@
+PANTHERA WORKS 2026 — LONG FILE NAME SUPPORT
+
+PPTX uses long filenames. NF-DOS V23 needs an external DOS LFN driver for this
+format. This application folder does not include DOSLFN or CP437UNI.TBL. Obtain
+and install the driver independently, and follow the driver package's own
+instructions and license terms.
+
+The driver must be available as the DOS command DOSLFN, and CP437UNI.TBL must
+be placed where that driver expects it. Run Showroom from a writable,
+LFN-capable drive. The CD-ROM itself is not a writable work drive.
+
+Keep DOSLFN, CP437UNI.TBL and LFNCHK.EXE available to the launcher. Start
+Showroom with SHOWROOM.BAT; it loads/checks the driver and starts SHOWROOM.EXE
+only when the LFN API is available. If the check fails, review the driver's
+installation and the LFNCHK output before retrying.
+
+DOSLFN and CP437UNI.TBL are not Panthera Works components and are not included
+or redistributed with this application.
