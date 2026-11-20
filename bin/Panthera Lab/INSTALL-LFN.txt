@@ -1,6 +1,6 @@
-PANTHERA WORKS 2026 — LONG FILE NAME SUPPORT
+PANTHERA WORKS 1.0 — LONG FILE NAME SUPPORT
 
-XLSX uses long filenames. NF-DOS V23 needs an external DOS LFN driver for this
+XLSX uses long filenames. DOS environments without native LFN support need an external DOS LFN driver for this
 format. This application folder does not include DOSLFN or CP437UNI.TBL. Obtain
 and install the driver independently, and follow the driver package's own
 instructions and license terms.

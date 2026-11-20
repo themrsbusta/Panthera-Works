@@ -1,4 +1,4 @@
-PANTHERA WORKS 2026 — THIRD-PARTY NOTICES
+PANTHERA WORKS 1.0 — THIRD-PARTY NOTICES
 
 Panthera Research licenses Panthera-owned source and original project assets under the MIT License; see the repository root LICENSE. This grant does not replace or extend any third-party license listed below.
 
@@ -89,8 +89,7 @@ Redistribution permission is unresolved. DOSLFN and CP437UNI.TBL are not
 included with Panthera Works. The current applications retain LFN-dependent
 DOCX/XLSX/PPTX support and require the user to install an LFN driver
 independently. See each application's INSTALL-LFN.txt. No maintainer contact
-was made. A later NF-DOS edition is planned to implement original LFN code inside the
-kernel; that work is not part of this release.
+was made. Native LFN implementations are outside the scope of this release.
 Upstream package page: https://ibiblio.org/pub/micro/pc-stuff/freedos/files/repositories/latest/html/en/drivers/doslfn/20250724.2/index.html
 Maintainer's DOSLFN page: https://adoxa.altervista.org/doslfn/index.html
 Local archive SHA-256: 9553FF471F7F0857ED37BAEDBE4F8B981803B3348E6A5A6AFF5018F18DD68FFA

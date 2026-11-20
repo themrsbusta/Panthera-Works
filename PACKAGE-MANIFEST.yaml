@@ -1,21 +1,20 @@
 schema_version: 1
-project: Panthera Works 2026
-prepared_on: '2026-11-19'
-target: NF-DOS 6.0 V23
+project: Panthera Works 1.0
+target: 32-bit x86 DOS with DOS/32A and LFN support
 snapshot_type: source-and-verified-binaries; no .git metadata
 applications:
   Panthera Notary:
-    executable: bin/NF-DOS-V23/Panthera Notary/NOTARY.EXE
+    executable: bin/Panthera Notary/NOTARY.EXE
     build_attempt: attempt92
     sha256: 3a5d02969d2314406f695de51ba74ec31b4ed12460bc5b512f2d07a6c752883e
     files: 5
   Panthera Lab:
-    executable: bin/NF-DOS-V23/Panthera Lab/LAB.EXE
+    executable: bin/Panthera Lab/LAB.EXE
     build_attempt: attempt103
     sha256: 83147ff062a6d217145a257fafccbb69effd98d8815e20403e5a62ac4f8e8a57
     files: 5
   Panthera Showroom:
-    executable: bin/NF-DOS-V23/Panthera Showroom/SHOWROOM.EXE
+    executable: bin/Panthera Showroom/SHOWROOM.EXE
     build_attempt: attempt65
     sha256: 060d8d25b00a9ab2b0e7c52b4de6fb8c2f020da69da6cdca2cdd8cb4575e8ebc
     files: 5
