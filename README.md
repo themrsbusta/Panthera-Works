@@ -1,5 +1,8 @@
 # Panthera Works 1.0
 
+**Division:** Panthera Softwares. **License:** [MIT](LICENSE).
+
+
 Panthera Notary, Panthera Lab and Panthera Showroom are standalone productivity applications for compatible DOS environments. Compatibility beyond the original tested environment has not been established.
 
 | Application | Executable | Main document format |
